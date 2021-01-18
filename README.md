@@ -21,9 +21,9 @@ I have graduated from a higher technical college. In my freetime I'm developing 
 - 📐 I'm a fan of the serverless architecture 
 - 🖼️ Portfolio: [nimmervoll.work](https://nimmervoll.work) <br />
 - 🎯 2021 Goals: 
-  - [ ] get better in typescript
-  - [ ] get a AWS certiciations
-  - [ ] publish first open-source app
+  - get better in typescript
+  - get a AWS certificate
+  - publish first open-source app
 - ⚡ Facts about me:
   - 🎵 Listens to fast and hard music (Sefa/N-Vitral/Phuture Noize 🧡)
   - 🍔 Preferres Burgerking over McDonald's
