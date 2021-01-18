@@ -4,7 +4,6 @@
 ### Hi I'm Lorenz Nimmervoll. 👋
 
 [![](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/NimmLor)
-[![](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/NimmLor)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=NimmLor&style=flat&labelColor=black&logo=github&label=Profile+Views&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/NimmLor/esp8266-fastled-iot-webserver?logo=markdown&label=Last+Commit&color=29bf12&style=flat">
 
