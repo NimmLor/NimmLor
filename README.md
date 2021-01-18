@@ -63,5 +63,5 @@ I have graduated from a higher technical college. In my freetime I'm developing 
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimmLor&layout=compact&theme=midnight-purple" alt="NimmLor" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NimmLor&show_icons=true&theme=midnight-purple" alt="NimmLor" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimmLor&layout=compact&theme=midnight-purple" alt="NimmLor" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NimmLor&show_icons=true&theme=midnight-purple" alt="NimmLor" /></p>
