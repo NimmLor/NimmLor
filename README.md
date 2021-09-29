@@ -7,7 +7,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=NimmLor&style=flat&labelColor=black&logo=github&label=Profile+Views&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/NimmLor/esp8266-fastled-iot-webserver?logo=markdown&label=Last+Commit&color=29bf12&style=flat">
 
-I'm a freelance software developer and 3d-printing enthusiast based in Austria
+I'm a cloud engineer and freelance software developer based in Austria
 
 I have graduated from a higher technical college. In my freetime I'm developing interactive 3d-printing projects and software. I'm publishing my projects on GitHub and Thingiverse under open-source licenses.
 
@@ -15,9 +15,9 @@ I have graduated from a higher technical college. In my freetime I'm developing 
 
 <img align="right" height="280px" alt="GIF" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-92075198-3fcd-4714-9cbe-d0b4904d1434-v1.png?transparent=1&palette=1" />
 
-- 📱 I’m currently working on mobile applications using react-native.<br />
-- 📚 I’m currently learning for the *AWS Certified Developer – Associate* exam.<br />
-- 📐 I'm a fan of the serverless architecture 
+- 📱 Currently working at [hae.sh](hae.sh) as cloud engineer<br />
+- 📚 Looking forward to take the *AWS Certified Developer – Associate* exam<br />
+- 📐 I'm a passionate about infrastructure as code and serverless architecture 
 - 🖼️ Portfolio: [nimmervoll.work](https://nimmervoll.work) <br />
 - 🎯 2021 Goals: 
   - get better in typescript
@@ -54,6 +54,11 @@ I have graduated from a higher technical college. In my freetime I'm developing 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
     </a> 
 </p>
+
+<h3 align="left">My current workplace</h3>
+
+
+[![hae.sh](https://haesh.surge.sh/badge3.png)](https://hae.sh)
 
 ---
 
