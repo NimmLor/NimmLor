@@ -15,7 +15,7 @@ I have graduated from a higher technical college. In my freetime I'm developing 
 
 <img align="right" height="280px" alt="GIF" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-92075198-3fcd-4714-9cbe-d0b4904d1434-v1.png?transparent=1&palette=1" />
 
-- 📱 Currently working at [hae.sh](hae.sh) as cloud engineer<br />
+- 📱 Currently working at [hae.sh](https://hae.sh) as cloud engineer<br />
 - 📚 Looking forward to take the *AWS Certified Developer – Associate* exam<br />
 - 📐 I'm a passionate about infrastructure as code and serverless architecture 
 - 🖼️ Portfolio: [nimmervoll.work](https://nimmervoll.work) <br />
