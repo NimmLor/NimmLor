@@ -19,10 +19,6 @@ I have graduated from a higher technical college. In my freetime I'm developing 
 - 📚 Looking forward to take the *AWS Certified Developer – Associate* exam<br />
 - 📐 I'm a passionate about infrastructure as code and serverless architecture 
 - 🖼️ Portfolio: [nimmervoll.work](https://nimmervoll.work) <br />
-- 🎯 2021 Goals: 
-  - get better in typescript
-  - get a AWS certificate
-  - publish first open-source app
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
