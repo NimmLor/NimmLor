@@ -7,9 +7,10 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=NimmLor&style=flat&labelColor=black&logo=github&label=Profile+Views&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/NimmLor/esp8266-fastled-iot-webserver?logo=markdown&label=Last+Commit&color=29bf12&style=flat">
 
-I'm a cloud engineer and freelance software developer based in Austria
+I'm a cloud engineer and freelance software developer based in Austria. Started freelancing in 2019 and working with AWS almost every day since.
+Looking forward to get AWS certified soon.
 
-I have graduated from a higher technical college. In my freetime I'm developing interactive 3d-printing projects and software. I'm publishing my projects on GitHub and Thingiverse under open-source licenses.
+I'm eager to prove myself and ambitious to be an exceptional developer.
 
 ---
 
@@ -17,46 +18,86 @@ I have graduated from a higher technical college. In my freetime I'm developing 
 
 - 📱 Currently working at [hae.sh](https://hae.sh) as cloud engineer<br />
 - 📚 Looking forward to take the *AWS Certified Developer – Associate* exam<br />
-- 📐 I'm a passionate about infrastructure as code and serverless architecture 
+- 📐 I'm a passionate about infrastructure as code and serverless architectures
+- 🏝️ 3 Tools I would take to a lonely island: AWS CDK, TypeScript and DynamoDB
 - 🖼️ Portfolio: [nimmervoll.work](https://nimmervoll.work) <br />
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/lorenz-nimmervoll-a728a5193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lorenz.nimmervoll/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="buck.sh0t" height="30" width="30" /> </a>
-</p>
+<h3 align="left">How to reach me</h3>
+<a href="https://www.linkedin.com/in/lorenz-nimmervoll-a728a5193/" target="blank"><img align="center" src="./img/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<h3 align="left">My tools of choice ❤️</h3>
+<p align="left">
     <a href="https://reactnative.dev/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="40" height="40"/></code> 
+        <img src="./img/react-original.svg" alt="react-native" width="40" height="40"/>
     </a>  
     <a href="https://www.typescriptlang.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>  
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
     </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
-    </a>
     <a href="https://aws.amazon.com" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>  
-    </a> 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </code> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>  
+        <img src="./img/aws.svg" alt="AWS" width="40" height="40" />  
     </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
-    </a> 
+    <a href="https://aws.amazon.com/cdk" target="_blank"> 
+        <img src="./img/Arch_AWS-Cloud-Development-Kit_64.svg" alt="AWS Cloud Development Kit" width="40" height="40" />  
+    </a>
+    <a href="https://aws.amazon.com/dynamodb" target="_blank"> 
+        <img src="./img/Arch_Amazon-DynamoDB_64.svg" alt="AWS DynamoDB" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/lambda" target="_blank"> 
+        <img src="./img/Arch_AWS-Lambda_64.svg" alt="AWS Lambda" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/api-gateway" target="_blank"> 
+        <img src="./img/Arch_Amazon-API-Gateway_64.svg" alt="AWS API-Gateway " width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/cloudwatch" target="_blank"> 
+        <img src="./img/Arch_Amazon-CloudWatch_64.svg" alt="AWS Cloudwatch" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/sns" target="_blank"> 
+        <img src="./img/Arch_Amazon-Simple-Notification-Service_64.svg" alt="AWS Simple Notification Service" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/sqs" target="_blank"> 
+        <img src="./img/Arch_Amazon-Simple-Queue-Service_64.svg" alt="AWS Simple Queue Service" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/s3" target="_blank"> 
+        <img src="./img/Arch_Amazon-Simple-Storage-Service_64.svg" alt="AWS S3" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/cloudfront" target="_blank"> 
+        <img src="./img/Arch_Amazon-CloudFront_64.svg" alt="AWS Cloudfront" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/route53" target="_blank"> 
+        <img src="./img/Arch_Amazon-Route-53_64.svg" alt="AWS Route 53" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/cognito" target="_blank"> 
+        <img src="./img/Arch_Amazon-Cognito_64.svg" alt="AWS Cognito" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/iam" target="_blank"> 
+        <img src="./img/Arch_AWS-Identity-and-Access-Management_64.svg" alt="AWS IAM" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/secrets-manager" target="_blank"> 
+        <img src="./img/Arch_AWS-Secrets-Manager_64.svg" alt="AWS Secrets Manager" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/kms" target="_blank"> 
+        <img src="./img/Arch_AWS-Key-Management-Service_64.svg" alt="AWS Key Management Service" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/codecommit" target="_blank"> 
+        <img src="./img/Arch_AWS-CodeCommit_64.svg" alt="AWS CodeCommit" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/codebuild" target="_blank"> 
+        <img src="./img/Arch_AWS-CodeBuild_64.svg" alt="AWS CodeBuild" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/codepipeline" target="_blank"> 
+        <img src="./img/Arch_AWS-CodePipeline_64.svg" alt="AWS CodePipeline" width="40" height="40"/>  
+    </a>
+    <a href="https://aws.amazon.com/xray" target="_blank"> 
+        <img src="./img/Arch_AWS-X-Ray_64.svg" alt="AWS X-Ray" width="40" height="40"/>  
+    </a>
+  
 </p>
 
-<h3 align="left">My current workplace</h3>
 
-
-[![hae.sh](https://haesh.surge.sh/badge3.png)](https://hae.sh)
 
 ---
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimmLor&layout=compact&theme=midnight-purple" alt="NimmLor" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NimmLor&show_icons=true&theme=midnight-purple" alt="NimmLor" /></p>
