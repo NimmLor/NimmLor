@@ -8,7 +8,6 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/NimmLor/esp8266-fastled-iot-webserver?logo=markdown&label=Last+Commit&color=29bf12&style=flat">
 
 I'm a cloud engineer and freelance software developer based in Austria. Started freelancing in 2019 and working with AWS almost every day since.
-Looking forward to get AWS certified soon.
 
 I'm eager to prove myself and ambitious to be an exceptional developer.
 
