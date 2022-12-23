@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/NimmLor)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=NimmLor&style=flat&labelColor=black&logo=github&label=Profile+Views&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/NimmLor/esp8266-fastled-iot-webserver?logo=markdown&label=Last+Commit&color=29bf12&style=flat">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/NimmLor/cdk-self-destruct?logo=markdown&label=Last+Commit&color=29bf12&style=flat">
 
 I'm a cloud engineer and freelance software developer based in Austria. Started freelancing in 2019 and working with AWS almost every day since.
 
