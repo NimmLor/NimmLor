@@ -1,21 +1,18 @@
-## Hi I'm Lorenz Nimmervoll. 👋
 
-[![](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/NimmLor)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=NimmLor&style=flat&labelColor=black&logo=github&label=Profile+Views&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/NimmLor/cdk-self-destruct?logo=markdown&label=Last+Commit&color=29bf12&style=flat">
+<h1 align="center">Hi 👋, I'm Lorenz</h1>
 
-I'm a cloud engineer and freelance software developer based in Austria. Started freelancing in 2019 and working with AWS almost every day since.
+I'm a cloud engineer and freelance software developer based in Austria. Started freelancing in 2019 and have been working with AWS almost every day since.
 
 I'm eager to prove myself and ambitious to be an exceptional developer.
 
 ---
 
-<img align="right" height="280px" alt="GIF" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-92075198-3fcd-4714-9cbe-d0b4904d1434-v1.png?transparent=1&palette=1" />
+<img align="right" height="360px" alt="Hi there" src="./img/hi_there.png" />
 
 - 📱 Currently working at [hae.sh](https://hae.sh) as cloud engineer
-- 📐 I'm a passionate about infrastructure as code and highly scaleable serverless architectures
+- 📐 I'm a passionate about infrastructure as code and highly scalable serverless architectures
 - 🏝️ 3 Tools I would take to a lonely island: AWS CDK, TypeScript and DynamoDB
-- 🖼️ Portfolio: [nimmervoll.work](https://nimmervoll.work)
+- 🖼️ Learn more about me: [nimmervoll.work](https://nimmervoll.work)
 
 <h3 align="left">How to reach me 📮</h3>
 <a href="https://www.linkedin.com/in/lorenz-nimmervoll-a728a5193/" target="blank"><img align="center" src="./img/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /></a>
