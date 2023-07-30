@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Lorenz</h1>
 
 I'm a cloud engineer and freelance software developer based in Austria. Started freelancing in 2019 and have been working with AWS almost every day since.
@@ -9,7 +8,7 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
 
 <img align="right" height="360px" alt="Hi there" src="./img/hi_there.png" />
 
-- 📱 Currently working at [hae.sh](https://hae.sh) as cloud engineer
+- 📱 Currently working at GrowthSquare
 - 📐 I'm a passionate about infrastructure as code and highly scalable serverless architectures
 - 🏝️ 3 Tools I would take to a lonely island: AWS CDK, TypeScript and DynamoDB
 - 🖼️ Learn more about me: [nimmervoll.work](https://nimmervoll.work)
@@ -31,11 +30,20 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
     <a href="https://www.openapis.org/" target="_blank">
         <img src="./img/openapi.svg" alt="OpenApi" width="40" height="40" />
     </a>
-    <a href="https://jestjs.io/" target="_blank">
-        <img src="./img/jest.svg" alt="Jest" width="40" height="40" />
+    <a href="https://vitest.dev/" target="_blank">
+        <img src="./img/vitest.svg" alt="Vitest" width="40" height="40" />
     </a>
     <a href="https://nodejs.org/" target="_blank">
         <img src="./img/node.svg" alt="Node.js" width="40" height="40" />
+    </a>
+    <a href="https://turbo.build/" target="_blank">
+        <img src="./img/turborepo.svg" alt="Turborepo" width="40" height="40" />
+    </a>
+    <a href="https://zod.dev/" target="_blank">
+        <img src="./img/zod.png" alt="Zod" width="40" height="40" />
+    </a>
+    <a href="https://trpc.io/" target="_blank">
+        <img src="./img/trpc.svg" alt="tRPC" width="40" height="40" />
     </a>
     <br />
     <h4>💻 Frontend</h4>
@@ -59,6 +67,9 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
     </a>
     <a href="https://formik.org" target="_blank">
         <img src="./img/formik.svg" alt="Formik" width="40" height="40" />
+    </a>
+    <a href="https://cypress.io" target="_blank">
+        <img src="./img/cypress.svg" alt="Cypress" width="40" height="40" />
     </a>
     <br />
     <h4>🏗️ Infrastructure</h4>
