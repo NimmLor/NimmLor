@@ -152,10 +152,9 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
 
 <br />
 
-<h3 align="left">Skills I want to improve in 2023 🚀</h3>
+<h3 align="left">Skills I want to improve in 2024 🚀</h3>
 
-- Libraries: Zod, react-hook-form
+- Languages: Rust
+- Libraries: Zustand
 - Containers: Docker, ECS, Fargate
-- Testing: Cypress
-- Analytics: AWS Glue, AWS Redshift
-- Pipelines: Multi-Region Deployments
+- Tools: Figma
