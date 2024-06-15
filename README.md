@@ -14,7 +14,7 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
 - 🖼️ Learn more about me: [nimmervoll.work](https://nimmervoll.work)
 
 <h3 align="left">How to reach me 📮</h3>
-<a href="https://www.linkedin.com/in/lorenz-nimmervoll-a728a5193/" target="blank"><img align="center" src="./img/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lorenz-nimmervoll-a728a5193/" target="blank"><img align="center" src="./img/linkedin-original.svg" height="30" width="40" /></a>
 
 <br />
 
@@ -36,6 +36,9 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
     <a href="https://nodejs.org/" target="_blank">
         <img src="./img/node.svg" alt="Node.js" width="40" height="40" />
     </a>
+    <a href="https://bun.sh/" target="_blank">
+        <img src="./img/bun.svg" alt="Bun" width="40" height="40" />
+    </a>
     <a href="https://turbo.build/" target="_blank">
         <img src="./img/turborepo.svg" alt="Turborepo" width="40" height="40" />
     </a>
@@ -44,6 +47,9 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
     </a>
     <a href="https://trpc.io/" target="_blank">
         <img src="./img/trpc.svg" alt="tRPC" width="40" height="40" />
+    </a>
+    <a href="https://biomejs.dev/" target="_blank">
+        <img src="./img/biome.svg" alt="Biome" width="40" height="40" />
     </a>
     <br />
     <h4>💻 Frontend</h4>
@@ -62,12 +68,12 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
     <a href="https://tanstack.com/query" target="_blank">
         <img src="./img/react-query.svg" alt="Tanstack Query" width="40" height="40" />
     </a>
-    <a href="https://orval.dev" target="_blank">
-        <img src="./img/orval.svg" alt="Orval" width="40" height="40" />
+    <a href="https://kubb.dev" target="_blank">
+        <img src="./img/kubb.svg" alt="Kubb" width="40" height="40" />
     </a>
-    <a href="https://formik.org" target="_blank">
+    <!-- <a href="https://formik.org" target="_blank">
         <img src="./img/formik.svg" alt="Formik" width="40" height="40" />
-    </a>
+    </a> -->
     <a href="https://cypress.io" target="_blank">
         <img src="./img/cypress.svg" alt="Cypress" width="40" height="40" />
     </a>
@@ -135,15 +141,6 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
     </a>
     <a href="https://aws.amazon.com/ses" target="_blank">
         <img src="./img/Arch_Amazon-Simple-Email-Service_64.svg" alt="AWS SES" width="40" height="40" />
-    </a>
-    <a href="https://aws.amazon.com/codecommit" target="_blank">
-        <img src="./img/Arch_AWS-CodeCommit_64.svg" alt="AWS CodeCommit" width="40" height="40" />
-    </a>
-    <a href="https://aws.amazon.com/codebuild" target="_blank">
-        <img src="./img/Arch_AWS-CodeBuild_64.svg" alt="AWS CodeBuild" width="40" height="40" />
-    </a>
-    <a href="https://aws.amazon.com/codepipeline" target="_blank">
-        <img src="./img/Arch_AWS-CodePipeline_64.svg" alt="AWS CodePipeline" width="40" height="40" />
     </a>
     <a href="https://aws.amazon.com/xray" target="_blank">
         <img src="./img/Arch_AWS-X-Ray_64.svg" alt="AWS X-Ray" width="40" height="40" />
