@@ -149,9 +149,8 @@ I'm eager to prove myself and ambitious to be an exceptional developer.
 
 <br />
 
-<h3 align="left">Skills I want to improve in 2024 🚀</h3>
+<h3 align="left">Skills I want to improve in 2025 🚀</h3>
 
-- Languages: Rust
-- Libraries: Zustand
-- Containers: Docker, ECS, Fargate
-- Tools: Figma
+- Languages: -
+- Libraries: motion, tanstack-router, tanstack-start, langchain
+- Tools: SST
